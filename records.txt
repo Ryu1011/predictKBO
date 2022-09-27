@@ -1,0 +1,5 @@
+0606 µÎ»ê 3 12 KIA KT 7 8 LG NC 0 6 »ï¼º SK 2 6 Å°¿ò ÇÑÈ­ 4 3 ·Ôµ¥ 
+0607 KIA 1 2 NC ·Ôµ¥ 1 2 KT LG 2 3 ÇÑÈ­ »ï¼º 2 4 SK Å°¿ò 1 7 µÎ»ê 
+0608 KIA 4 5 NC ·Ôµ¥ 2 6 KT LG 3 2 ÇÑÈ­ »ï¼º 0 8 SK Å°¿ò 5 4 µÎ»ê 
+0609 KIA 3 4 NC ·Ôµ¥ 0 2 KT LG 3 1 ÇÑÈ­ »ï¼º 9 0 SK Å°¿ò 4 0 µÎ»ê 
+0818 KT 2 1 KIA LG 8 1 »ï¼º SK 4 7 NC ·Ôµ¥ 3 11 µÎ»ê ÇÑÈ­ 5 4 Å°¿ò 
